@@ -1,0 +1,19 @@
+body {
+  padding: 20px;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+.input-group-append {
+  margin-left: -1px;
+}
+
+.text-center {
+  text-align: center;
+}
